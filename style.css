@@ -1,0 +1,47 @@
+header{
+  display: flex;
+  align-items: center;
+}
+
+
+.H_div{
+  text-align: center;
+
+}
+.logo_acceuil {
+    width: 100%;
+}
+
+
+.testmat {
+width: 10%
+
+}
+
+@font-face {
+  font-family: 'OpenSans-VariableFont_wdth,wght';
+  src: url('OpenSans-VariableFont_wdth,wght.ttf')format('truetype');
+}
+
+h1 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family: 'OpenSans-VariableFont_wdth,wght', serif;
+}
+
+
+.msgbvn{
+
+  border-color: #0080c9
+}
+
+/* texte Centré https://developer.mozilla.org/fr/docs/Web/HTML/Element/center  */
+.center{style=text-align:center
+}
+
+
+/*H_ul -> contenu du menu de navigation*/
+.H_ul{
+list-style: none;
+
+
+}
